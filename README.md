@@ -1,1 +1,3 @@
-# Standford University CS231
+# Standford University CS231 - Deep Learning
+
+Feifei Li
